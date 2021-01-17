@@ -1,0 +1,23 @@
+#h1{
+  font-size: 80px;
+  color: #ECBA3D;
+}
+#image{
+  width:700px;
+  height: 300px;
+}
+body{
+  text-align:center;
+  font-size: 23px;
+  background-image:url("https://wallpapercave.com/wp/wp7397989.jpg");
+  background-size: cover;
+  
+  color: #E3F2FD;
+}
+h1{
+  color: #E8DCA2;
+}
+#image2{
+  width:500px;
+  height:300px;
+}
